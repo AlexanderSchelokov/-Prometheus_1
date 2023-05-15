@@ -12,3 +12,4 @@
 
 Задание 5
 ![image](https://github.com/AlexanderSchelokov/-Prometheus_1/assets/121572590/24d507da-7ba8-4504-9015-b7616c1e62e9)
+![image](https://github.com/AlexanderSchelokov/-Prometheus_1/assets/121572590/8c68fe8a-a4b5-400d-a962-114cbf327ec5)
